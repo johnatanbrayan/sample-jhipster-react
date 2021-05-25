@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.0.1": {
+    "promptValues": {
+      "packageName": "br.com.johnatanbrayan",
+      "nativeLanguage": "pt-br"
+    }
+  }
+}
